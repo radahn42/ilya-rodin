@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ilya Rodin!
+# Hi 👋, I'm Ilya!
 
 I'm begginer frontend developer
 
