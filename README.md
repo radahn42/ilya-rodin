@@ -55,9 +55,3 @@ I'm begginer frontend developer
     </td>
   </tr>
 </table>
-
-# 📈 Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-rodin&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-rodin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
