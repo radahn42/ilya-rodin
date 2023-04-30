@@ -1,36 +1,45 @@
-Hi 👋 My name is Ilya Rodin
-===========================
+Hi there! 👋 I'm Ilya
+===========
 
-Frontend Developer
-------------------
+### 🧑‍💻 About Me
 
-I'm beginner frontend developer
+My name is Ilya Rodin.  
+I am Junior Frontend-developer from Penza, Russia.  
+I am studying at [Hexlet](https://ru.hexlet.io/) development school.  
+  
+**I am currently looking for carrer opportunities as Junior Frontend-developer.**  
+**My CV:** https://cv.hexlet.io/ru/resumes/2170
 
-* 🌍  I'm based in Penza
-* ✉️  You can contact me at [i1.rodin@yandex.ru](mailto:i1.rodin@yandex.ru)
-* 🤝  I'm open to collaborating on large projects, fintech
+### 📲 Contacts
 
-### Skills
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](i1.rodin@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eternal_struggler)
 
+### 🛠️ Languages and Tools
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=jest&svgfill=C21325&text=false" height=45 alt="Webpack" /></a>
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=eslint&svgfill=4c33c1&text=false" height=45 alt="Webpack" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=git&svgfill=f1502f&text=false" height=45 alt="Webpack" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=github&svgfill=black&text=false" height=45 alt="Webpack" /></a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=ubuntu&svgfill=e95420&text=false" height=45 alt="Webpack" /></a>
+
+### 💻 My Projects
+[![Gendiff Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=gendiff&theme=react)](https://github.com/ilya-rodin/gendiff)
+[![Brain-Games Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=brain-games&theme=react)](https://github.com/ilya-rodin/brain-games)
 
 
-### Socials
+### 📉 GitHub Stats
 
-<p align="left"> <a href="https://www.github.com/ilya-rodin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ilya-rodin-58a686272" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ilya-rodin"><img src="https://github-readme-stats.vercel.app/api?username=ilya-rodin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ilya-rodin's GitHub stats" /></a>
-
-<a href="https://github.com/ilya-rodin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-rodin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/ilya-rodin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilya-rodin&theme=react&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="artch3r's GitHub stats" />
+</a>
+<a href="http://www.github.com/ilya-rodin">
+  <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-rodin&theme=react&layout=compact&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
