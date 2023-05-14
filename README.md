@@ -32,6 +32,7 @@ I am studying at [Hexlet](https://ru.hexlet.io/) development school.
 
 ### 💻 My Projects
 [![Gendiff Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=gendiff&theme=react)](https://github.com/ilya-rodin/gendiff)
+
 [![Brain-Games Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=brain-games&theme=react)](https://github.com/ilya-rodin/brain-games)
 
 
