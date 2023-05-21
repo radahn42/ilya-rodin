@@ -27,7 +27,7 @@ I am studying at [Hexlet](https://ru.hexlet.io/) development school.
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=eslint&svgfill=4c33c1&text=false" height=45 alt="Webpack" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=git&svgfill=f1502f&text=false" height=45 alt="Webpack" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=github&svgfill=black&text=false" height=45 alt="Webpack" /></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=ubuntu&svgfill=e95420&text=false" height=45 alt="Webpack" /></a>
+<a href="https://manjaro.org/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=manjaro&svgfill=34be5b&text=false" height=45 alt="Webpack" /></a>
 
 ### 💻 My Projects
 [![Gendiff Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=gendiff&theme=react)](https://github.com/ilya-rodin/gendiff)
