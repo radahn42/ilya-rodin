@@ -30,6 +30,9 @@ I am studying at [Hexlet](https://ru.hexlet.io/) development school.
 <a href="https://manjaro.org/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=manjaro&svgfill=34be5b&text=false" height=45 alt="Webpack" /></a>
 
 ### 💻 My Projects
+
+[![RSS-Aggregator Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=rss-aggregator&theme=react)](https://github.com/ilya-rodin/rss-aggregator)
+
 [![Gendiff Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=gendiff&theme=react)](https://github.com/ilya-rodin/gendiff)
 
 [![Brain-Games Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=brain-games&theme=react)](https://github.com/ilya-rodin/brain-games)
