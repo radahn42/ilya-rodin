@@ -41,8 +41,5 @@ I am studying at [Hexlet](https://ru.hexlet.io/) development school.
 ### 📉 GitHub Stats
 
 <a href="http://www.github.com/ilya-rodin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilya-rodin&theme=react&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="artch3r's GitHub stats" />
-</a>
-<a href="http://www.github.com/ilya-rodin">
   <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-rodin&theme=react&layout=compact&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
