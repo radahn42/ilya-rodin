@@ -31,7 +31,7 @@ I am studying at [Hexlet](https://ru.hexlet.io/) development school.
 
 ### 💻 My Projects
 
-[![RSS-Aggregator Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=rss-aggregator&theme=react)](https://github.com/ilya-rodin/rss-aggregator)
+[![Rss-Aggregator Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=rss-aggregator&theme=react)](https://github.com/ilya-rodin/rss-aggregator)
 
 [![Gendiff Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=gendiff&theme=react)](https://github.com/ilya-rodin/gendiff)
 
