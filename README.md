@@ -30,17 +30,8 @@ I am studying at [Hexlet](https://ru.hexlet.io/) development school.
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=github&svgfill=black&text=false" height=45 alt="Webpack" /></a>
 <a href="https://manjaro.org/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=manjaro&svgfill=34be5b&text=false" height=45 alt="Webpack" /></a>
 
-### 💻 My Projects
+### Badges
 
-[![Rss-Aggregator Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=rss-aggregator&theme=react)](https://github.com/ilya-rodin/rss-aggregator)
+[![LeetCode Stats](https://leetcode.card.workers.dev/ilya-rodin?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/ilya-rodin/)
 
-[![Gendiff Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=gendiff&theme=react)](https://github.com/ilya-rodin/gendiff)
-
-[![Brain-Games Card](https://github-readme-stats.vercel.app/api/pin/?username=ilya-rodin&repo=brain-games&theme=react)](https://github.com/ilya-rodin/brain-games)
-
-
-### 📉 GitHub Stats
-
-<a href="http://www.github.com/ilya-rodin">
-  <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-rodin&theme=react&layout=compact&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+[![CodeWars](https://www.codewars.com/users/eternal-struggler/badges/large)](https://www.codewars.com/r/N0so6Q)
