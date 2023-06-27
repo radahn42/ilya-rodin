@@ -7,7 +7,7 @@ My name is Ilya Rodin.
 I am Frontend developer from Penza, Russia.  
 I am studying at [Hexlet](https://ru.hexlet.io/) development school.  
   
-**I am currently looking for carrer opportunities as Frontend developer.**  
+**I am currently looking for career opportunities as Frontend developer.**  
 **My CV:** https://cv.hexlet.io/ru/resumes/2170
 
 ### 📲 Contacts
