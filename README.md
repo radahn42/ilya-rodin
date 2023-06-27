@@ -39,6 +39,4 @@ I am studying at [Hexlet](https://ru.hexlet.io/) development school.
 
 ### Badges
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/ilya-rodin?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/ilya-rodin/)
-
 [![CodeWars](https://www.codewars.com/users/eternal-struggler/badges/large)](https://www.codewars.com/r/N0so6Q)
