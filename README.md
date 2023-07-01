@@ -12,8 +12,11 @@ I am studying at [Hexlet](https://ru.hexlet.io/) development school.
 
 ### 📲 Contacts
 
+
+
 [![email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:i1.rodin@yandex.ru)
 [![telegram](https://img.shields.io/badge/-telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/eternal_struggler)
+[![linkedin](https://img.shields.io/badge/-linkedin-0088cc?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-rodin-a77793248)
 
 ### 🛠️ Languages and Tools
 
