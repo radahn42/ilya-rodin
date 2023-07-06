@@ -38,8 +38,3 @@ I am currently looking for career opportunities as Frontend/Fullstack developer.
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=github&svgfill=black&text=false" height=45 alt="Webpack" /></a>
   <a href="https://manjaro.org/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=manjaro&svgfill=34be5b&text=false" height=45 alt="Webpack" /></a>
 </p>
-
-
-### Badges
-
-[![CodeWars](https://www.codewars.com/users/eternal-struggler/badges/large)](https://www.codewars.com/r/N0so6Q)
