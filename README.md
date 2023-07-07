@@ -7,7 +7,7 @@ My name is Ilya Rodin.
 I am Frontend developer from Penza, Russia.  
 I am studying at [Hexlet](https://ru.hexlet.io/) development school.  
   
-I am currently looking for career opportunities as Frontend developer.
+I am currently looking for career opportunities as Frontend/Fullstack developer.
 
 ### 📲 Contacts
 
@@ -20,6 +20,7 @@ I am currently looking for career opportunities as Frontend developer.
 ### 🛠️ Languages and Tools
 
 <p align="left">
+  <a href="https://www.go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Golang" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
