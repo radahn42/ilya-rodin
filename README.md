@@ -5,7 +5,6 @@ Hi there! 👋 I'm Ilya
 
 My name is Ilya Rodin.  
 I am Frontend developer from Penza, Russia.  
-I am currently looking for career opportunities as Frontend developer.
 
 ### 📲 Contacts
 
