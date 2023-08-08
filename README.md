@@ -36,3 +36,7 @@ I am Frontend developer from Penza, Russia.
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=github&svgfill=black&text=false" height=45 alt="Webpack" /></a>
   <a href="https://manjaro.org/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=manjaro&svgfill=34be5b&text=false" height=45 alt="Webpack" /></a>
 </p>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-rodin&show_icons=true&theme=radical&hide_rank=true)
